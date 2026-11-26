@@ -1,35 +1,13 @@
 # Literature Survey
 
-## 1. Purpose
 
-Use the literature survey to understand existing wheeled-legged and wheeled-biped systems, identify practical design patterns, and establish a defensible research gap. Do not claim novelty until relevant prior work has been compared.
+| Member | Individual paper 1 — bin | Individual paper 1 search keywords | Individual paper 2 — bin | Individual paper 2 search keywords |
+|---|---|---|---|---|
+| **Shanmukha** | **Bin 3 — Dynamics, Balance & Control** | `"wheeled-legged robot" AND dynamics model`; `"wheel-legged" AND balance control`; `"wheeled biped" AND stability control`; `"wheel-leg coordination" AND control` | **Bin 4 — Locomotion, Terrain Adaptation & Intelligent Control** | `"wheeled-legged robot" AND terrain adaptation`; `"wheel-legged" AND obstacle traversal`; `"wheeled-legged" AND reinforcement learning`; `"adaptive body height" AND mobile robot` |
+| **Rakesh** | **Bin 1 — Robot Morphology & Mechanical Design** | `"wheeled-legged robot" AND mechanical design`; `"wheel-legged" AND leg mechanism`; `"wheeled biped" AND morphology`; `"reconfigurable wheel-leg robot" AND design` | **Bin 2 — Actuation, Drivetrain & Transmission** | `"wheeled-legged robot" AND actuator design`; `"wheel-leg" AND transmission mechanism`; `"legged mobile robot" AND belt drive`; `"wheel-legged" AND mechanical advantage` |
+| **Surya** | **Bin 2 — Actuation, Drivetrain & Transmission** | `"wheeled-legged robot" AND drivetrain`; `"wheel-legged" AND motor sizing`; `"wheel-leg robot" AND transmission design`; `"robot leg" AND belt transmission` | **Bin 3 — Dynamics, Balance & Control** | `"wheeled-legged robot" AND actuator dynamics`; `"wheel-legged" AND torque control`; `"wheel-leg coordination" AND dynamics`; `"wheeled biped" AND balance controller` |
+| **Uma** | **Bin 4 — Locomotion, Terrain Adaptation & Intelligent Control** | `"wheeled-legged robot" AND terrain-aware locomotion`; `"wheel-legged" AND rough terrain`; `"wheeled-legged" AND obstacle negotiation`; `"wheel-legged robot" AND reinforcement learning` | **Bin 1 — Robot Morphology & Mechanical Design** | `"wheeled-legged robot" AND mechanical architecture`; `"wheel-legged" AND variable geometry`; `"wheeled biped" AND leg design`; `"hybrid wheel-leg locomotion" AND mechanism` |
 
-## 2. Survey questions
-- What robot morphologies and wheel-leg configurations have been demonstrated?
-- How are body height and leg geometry adjusted?
-- What mechanisms and transmissions are used, and why?
-- How are wheel motion, leg motion, and balance coordinated?
-- What modelling and control methods are validated experimentally?
-- What terrain, obstacle, and disturbance conditions are tested?
-- What are the limitations in cost, complexity, manufacturability, robustness, and energy use?
-- Which gap can this team address within the budget and semester?
-
-## 3. Initial reading work packages
-
-These are **provisional suggestions**, not final assignments. Confirm ownership at the team meeting after reviewing interests and strengths.
-
-| Member | Suggested focus | Target by 4 Dec |
-|---|---|---|
-| Shanmukha | Dynamics, balancing, wheel-leg coordination, and control methods | 5–8 relevant papers with comparison notes |
-| Rakesh | Mechanical morphology, leg mechanisms, variable geometry, and manufacturability | 5–8 relevant papers with mechanism sketches |
-| Surya | Actuation, wheel drives, transmissions, and drivetrain design | 5–8 relevant papers with actuator/transmission comparison |
-| Uma | Locomotion planning, terrain/obstacle adaptation, learning-based methods | 5–8 relevant papers with task and method comparison |
-
-Each member should share the paper title, DOI or stable URL, and a short note on relevance. Avoid collecting papers without reading them.
-
-## 4. Literature matrix
-
-Add one row per paper. Use concise, evidence-based descriptions.
 
 | No. | Paper / authors / year | Robot morphology and DOF | Mechanism / transmission | Actuation | Model / dynamics | Control / planning | Experiments and metrics | Limitations identified by authors | Relevance to our project | DOI / URL |
 |---:|---|---|---|---|---|---|---|---|---|---|
@@ -37,58 +15,4 @@ Add one row per paper. Use concise, evidence-based descriptions.
 | 2 | | | | | | | | | | |
 | 3 | | | | | | | | | | |
 
-## 5. Individual paper note template
 
-For each paper, capture:
-1. Full citation and DOI/URL.
-2. Problem addressed and motivation.
-3. Robot configuration, DOF, dimensions, and mass if reported.
-4. Mechanical mechanism and drivetrain.
-5. Actuators and sensors.
-6. Modelling assumptions.
-7. Control or planning method.
-8. Experimental setup and quantitative results.
-9. Limitations stated by the authors.
-10. What can be reused, adapted, or avoided in our design.
-
-Distinguish author-stated limitations from your own interpretation.
-
-## 6. Synthesis and research gap
-
-Complete after the first reading round.
-
-### Common design patterns
-- 
-
-### Approaches that appear difficult to manufacture or control within our constraints
-- 
-
-### Unresolved technical challenges
-- 
-
-### Candidate research directions
-- Terrain-adaptive body-height control while maintaining stable wheel contact.
-- A manufacturable leg or drivetrain mechanism that improves useful workspace or mechanical advantage.
-- Robust wheel-leg coordination during height changes and obstacle traversal.
-- Adaptive or learning-assisted control, provided a reliable baseline and measurable comparison are established.
-
-These are hypotheses to investigate, not claims of novelty.
-
-### Selected research gap
-**TBD — support with comparisons to specific papers.**
-
-### Proposed contribution and validation
-**TBD — define one primary contribution, measurable metrics, baseline method, and feasible experiment.**
-
-## 7. Survey completion checklist
-- [ ] Each member has read and documented 5–8 relevant papers.
-- [ ] Papers are compared using the common matrix.
-- [ ] Important claims are checked against the original papers.
-- [ ] Existing mechanisms and control approaches are compared.
-- [ ] Practical limitations are mapped to our budget and fabrication facilities.
-- [ ] A research gap is supported by cited prior work.
-- [ ] The team selects a feasible primary contribution.
-- [ ] Key findings are presented at the 4 December checkpoint.
-
-## 8. References
-Add complete references here or maintain a reference manager export alongside this file. Use consistent citation formatting and include DOI/stable links wherever available.
