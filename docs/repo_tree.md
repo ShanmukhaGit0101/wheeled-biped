@@ -43,9 +43,8 @@ wheeled-biped/
 | `project_management/` | Optional detailed schedules, procurement tracking, and risk records if needed |
 | `.github/ISSUE_TEMPLATE/` | Reusable issue templates for bugs, tasks, and design reviews |
 
-## File placement rules
-- Keep only essential entry-point files at the root.
-- Store source data with a README explaining its origin, format, and use.
-- Avoid committing generated build folders, temporary files, duplicate exports, and large recordings.
-- Use Git LFS for large binary assets only after the team agrees on file types and storage needs.
-- Update this tree when the actual repository structure changes.
+Member	Literature task	Software / learning task	Component task
+Shanmukha	Read Bin 3 papers; start Bin 4	Set up ROS 2 workspace, understand nodes, topics, TF and URDF/Xacro	Identify electrical architecture, battery and controller options
+Rakesh	Read Bin 1 papers; start Bin 2	Install CAD/FEA tools; learn assembly modelling, joints, materials and exporting CAD models	Explore chassis, leg configurations, structural materials and joint hardware
+Surya	Read Bin 2 papers; start Bin 3	Learn motor specifications, encoder feedback, PWM and basic motor control	Identify wheel motors, hip/knee actuators and transmission alternatives
+Umaa	Read Bin 4 papers; start Bin 1	Set up ROS 2 Python environment, RViz2 and Gazebo; learn sensor topics and simulation basics	Identify IMU, encoders, limit switches and obstacle-detection sensor options
