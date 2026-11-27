@@ -14,7 +14,7 @@ Add brief evidence or examples in the notes column. Ratings are for planning and
 
 | Member | Mechanical CAD | Machine design | Mechanism design | FEA | Topology optimisation | Manufacturing | 3D printing | Electronics | Embedded C | Motor selection/control | ROS 2 | URDF/Xacro | Gazebo | Python | C/C++ | MATLAB/Simulink | Kinematics | Dynamics | Classical control | Adaptive/impedance control | ML/RL | Technical writing | Paper reading | Presentation | Project management | Notes / evidence |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| Shanmukha | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Shanmukha |3 | 3| 3| 4| 4| 3| 4| 5| 4| 3| 5| 5| 5| 3| 3| 4| 5| 5| 4| 2| 3| 2| 3| 3| 4| 4|
 | Rakesh | 4| 4| 3| 3| 4| 4| 4| 3| 3| 4| 3| 2| 3| 3| 3| 3| 3| 2| 3| 2| 2| 3| 4| 4| 3| 4|
 | Surya | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Umaa |2 |2 |2 |2 |2 |3 |3 |2 |2 |2 |4 |3 |4 |5 |4 |4 |3 |2 |2 |2 |3 |4 |4 |4 |4 |4 |
