@@ -17,7 +17,7 @@ Add brief evidence or examples in the notes column. Ratings are for planning and
 | Shanmukha | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | Rakesh | 4| 4| 3| 3| 4| 4| 4| 3| 3| 4| 3| 2| 3| 3| 3| 3| 3| 2| 3| 2| 2| 3| 4| 4| 3| 4|
 | Surya | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| Uma | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| Umaa |2 |2 |2 |2 |2 |3 |3 |2 |2 |2 |4 |3 |4 |5 |4 |4 |3 |2 |2 |2 |3 |4 |4 |4 |4 |4 |
 
 ## 2. Individual planning details
 
